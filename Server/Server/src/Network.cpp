@@ -93,7 +93,7 @@ void Network::BroadcastPacket(std::vector<std::unique_ptr<sf::TcpSocket>>& vec, 
             }
         }
 
-        std::cout<<"sA\n";
+        std::cout<<"sssA\n";
         std::this_thread::sleep_for(std::chrono::milliseconds(100)); //ERROR
         std::cout<<"b\n";
     }
