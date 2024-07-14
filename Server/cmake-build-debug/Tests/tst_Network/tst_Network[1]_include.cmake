@@ -1,0 +1,5 @@
+if(EXISTS "C:/develop/C++ CLion/chat/Server/cmake-build-debug/Tests/tst_Network/tst_Network[1]_tests.cmake")
+  include("C:/develop/C++ CLion/chat/Server/cmake-build-debug/Tests/tst_Network/tst_Network[1]_tests.cmake")
+else()
+  add_test(tst_Network_NOT_BUILT tst_Network_NOT_BUILT)
+endif()

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "Tests/tst_SqlWrapper",
+		"source" : "Tests/tst_SqlWrapper"
+	}
+}
