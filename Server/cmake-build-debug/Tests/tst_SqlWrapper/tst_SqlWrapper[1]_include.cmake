@@ -1,5 +1,0 @@
-if(EXISTS "C:/develop/C++ CLion/chat/Server/cmake-build-debug/Tests/tst_SqlWrapper/tst_SqlWrapper[1]_tests.cmake")
-  include("C:/develop/C++ CLion/chat/Server/cmake-build-debug/Tests/tst_SqlWrapper/tst_SqlWrapper[1]_tests.cmake")
-else()
-  add_test(tst_SqlWrapper_NOT_BUILT tst_SqlWrapper_NOT_BUILT)
-endif()
