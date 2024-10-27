@@ -1,2 +1,1 @@
-# online-chat
-Онлайн чат написаный с помощью SFML Network
+# игра на голом C++ SFML
